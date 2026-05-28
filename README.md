@@ -69,7 +69,7 @@ scripts/          Utility scripts
 # Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/KoushikRama/Agentic-Business-Intelligence-Platform
 cd agentic-business-intelligence-platform
 ```
 
